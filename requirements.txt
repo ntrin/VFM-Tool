@@ -1,0 +1,10 @@
+numpy
+pandas
+plotly
+panel
+hvplot==0.6.0
+holoviews==1.13.3
+scipy
+tensorflow
+keras==2.2.5
+sklearn
